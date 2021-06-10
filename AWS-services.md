@@ -34,5 +34,9 @@
 - `<Lv.100>` [Amazon S3 Intelligent-Tiering がアーカイブアクセスティアを追加 — ストレージコストをさらに最適化](https://aws.amazon.com/jp/about-aws/whats-new/2020/11/amazon-s3-intelligent-tiering-adds-archive-access-tiers/)
 - `<Lv.400>` [Diving Deep on S3 Consistency](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html)
 
+## SQS
+- `<Lv.200>` [SQS 標準キューのCLIを利用した動作デモ動画](https://www.youtube.com/watch?v=8cAk1_GSV0g&t=336s)
+- `<Lv.200>` [SQS FIFOキューのCLIを利用した動作デモ動画](https://www.youtube.com/watch?v=8cAk1_GSV0g&t=660s)
+
 ## StepFunctions
 - `<Lv.300>` [分散システムにおけるSagaパターンのAWS Step Functions による実装 #AWSDevDay - Speaker Deck](https://speakerdeck.com/fatsushi/fen-san-sisutemuniokerusagapatanfalseaws-step-functions-niyorushi-zhuang-number-awsdevday)
