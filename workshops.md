@@ -44,6 +44,7 @@
 
 ## Network
 - [Hands-on Network Firewall Workshop](https://hands-on-network-firewall.workshop.aws/)
+- [Comparing VPC Peering and Transit Gateway | Qwiklabs](https://amazon.qwiklabs.com/focuses/17878?parent=catalog)
 
 # Digital Training
 ## DynamoDB
