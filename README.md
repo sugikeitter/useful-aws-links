@@ -9,6 +9,12 @@ AWSドキュメントのユーザーガイドやデベロッパーガイド以�
 - https://awsstash.com/
 - https://serverlessland.com/
 
+## Index
+- [AWSサービスごとに情報をまとめたリンク集](https://github.com/sugikeitter/useful-aws-links/blob/main/AWS-services.md)
+- [AWS活用事例をまとめたリンク集](https://github.com/sugikeitter/useful-aws-links/blob/main/case-studies.md)
+- [セキュリティ、ネットワーク、マルチアカウントなど広いカテゴリごとの情報をまとめたリンク集](https://github.com/sugikeitter/useful-aws-links/blob/main/category.md)
+- [ワークショップ/ハンズオン系をまとめたリンク集](https://github.com/sugikeitter/useful-aws-links/blob/main/workshops.md)
+
 -----
 ※レベル（Lv.）は以下を参考に独自で判断（参考: https://aws.amazon.com/jp/start-ups/loft/faq/）
 > レベル 100-200: 入門 – このセッションは、該当するトピックの初心者向けで、AWS のサービスまたは機能の概要が説明されます。セッションでは、基本的なユースケース、特徴、機能、利点を主に取り上げます。
