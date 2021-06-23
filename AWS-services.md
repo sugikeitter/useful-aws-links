@@ -30,6 +30,10 @@
 - `<Lv.200>` [[レポート] ARC408: Route 53 SLA 100% の舞台裏 (Under the Hood of Amazon Route 53) #reinvent | DevelopersIO](https://dev.classmethod.jp/articles/report-reinvent-2018-1128-arc408/)
 - `<Lv.300>` [シャッフルシャーディングを使ったワークロードの分離](https://aws.amazon.com/jp/builders-library/workload-isolation-using-shuffle-sharding/)
 
+## Systems Manager
+- `<Lv.200>` [AWS Systems Manager Incident Managerで連絡先、エスカレーションプラン、対応プランを作成する | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/creating-contacts-escalation-plans-response-plans-aws-systems-manager-incident-manager/)
+- `<Lv.200>` [AWS Systems Manager Incident ManagerとAmazon CloudWatchの統合 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/aws-systems-manager-incident-manager-integration-amazon-cloudwatch/)
+
 ## S3
 - `<Lv.100>` [Amazon S3 Intelligent-Tiering がアーカイブアクセスティアを追加 — ストレージコストをさらに最適化](https://aws.amazon.com/jp/about-aws/whats-new/2020/11/amazon-s3-intelligent-tiering-adds-archive-access-tiers/)
 - `<Lv.400>` [Diving Deep on S3 Consistency](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html)
