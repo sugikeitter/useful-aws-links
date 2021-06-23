@@ -1,5 +1,5 @@
 # useful-aws-links
-A list of useful AWS documents and case studies without Official Document
+AWSドキュメントのユーザーガイドやデベロッパーガイド以外で役立つリンク集
 
 ## General
 - [Amazon Web Services - YouTube](https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg)
