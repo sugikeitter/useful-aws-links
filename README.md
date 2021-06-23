@@ -10,10 +10,10 @@ AWSドキュメントのユーザーガイドやデベロッパーガイド以�
 - https://serverlessland.com/
 
 ## Index
-- [AWSサービスごとに情報をまとめたリンク集](https://github.com/sugikeitter/useful-aws-links/blob/main/AWS-services.md)
-- [AWS活用事例をまとめたリンク集](https://github.com/sugikeitter/useful-aws-links/blob/main/case-studies.md)
-- [セキュリティ、ネットワーク、マルチアカウントなど広いカテゴリごとの情報をまとめたリンク集](https://github.com/sugikeitter/useful-aws-links/blob/main/category.md)
-- [ワークショップ/ハンズオン系をまとめたリンク集](https://github.com/sugikeitter/useful-aws-links/blob/main/workshops.md)
+- [AWSサービスごとに情報をまとめたリンク集はこちら](https://github.com/sugikeitter/useful-aws-links/blob/main/AWS-services.md)
+- [AWS活用事例をまとめたリンク集はこちら](https://github.com/sugikeitter/useful-aws-links/blob/main/case-studies.md)
+- [セキュリティ、ネットワーク、マルチアカウントなど広いカテゴリごとの情報をまとめたリンク集はこちら](https://github.com/sugikeitter/useful-aws-links/blob/main/category.md)
+- [ワークショップ/ハンズオン系をまとめたリンク集はこちら](https://github.com/sugikeitter/useful-aws-links/blob/main/workshops.md)
 
 -----
 ※レベル（Lv.）は以下を参考に独自で判断（参考: https://aws.amazon.com/jp/start-ups/loft/faq/）
