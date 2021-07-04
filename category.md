@@ -42,6 +42,9 @@
 ## Network
 - `<Lv.200>` [AWS Summit Tokyo 2019 - 【初級】AWS を支えるグローバルネットワーク](https://pages.awscloud.com/rs/112-TZM-766/images/C1-02.pdf)
 
+## RDB
+- `<Lv.100>` [社内SQL研修のために作った資料を公開します | 株式会社AI Shift](https://www.ai-shift.co.jp/techblog/1980)
+
 ## Security
 - `<Lv.200>` [AWSの異常課金で気付いた不正アクセス--インシデントにどう対応したのか - ZDNet Japan](https://japan.zdnet.com/article/35133681/)
 - `<Lv.200>` 書籍: [AWSの薄い本Ⅱ アカウントセキュリティのベーシックセオリー - 佐々木拓郎のオンライン本屋 - BOOTH](https://takuros.booth.pm/items/1919060)
