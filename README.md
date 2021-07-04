@@ -5,6 +5,8 @@ AWSドキュメントのユーザーガイドやデベロッパーガイド以�
 - [Amazon Web Services - YouTube](https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg)
 - [AWS Online Tech Talks - YouTube](https://www.youtube.com/channel/UCT-nPlVzJI-ccQXlxjSvJmw)
 - [Amazon Web Services Japan 公式 - YouTube](https://www.youtube.com/channel/UCnjKWUK2t5QJYfeqqilhJhQ)
+- [サービス別資料 | AWS クラウドサービス活用資料集](https://aws.amazon.com/jp/aws-jp-introduction/aws-jp-webinar-service-cut/)
+- [The Amazon Builders' Library](https://aws.amazon.com/jp/builders-library/)
 - https://resources.awscloud.com/
 - https://awsstash.com/
 - https://serverlessland.com/
