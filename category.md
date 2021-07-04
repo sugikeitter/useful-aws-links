@@ -27,6 +27,7 @@
 
 ## IaC
 - `<Lv.200>` [Infrastructure as Codeに関する技術書籍を執筆しました - How elegant the tech world is...!](https://iselegant.hatenablog.com/entry/2021/06/19/231213)
+- `<Lv.200>` [Terraform職人再入門2020 - Qiita](https://qiita.com/minamijoyo/items/3a7467f70d145ac03324)
 
 ## Migration
 - `<Lv.200>` [Amazon RDS for Oracle / SQL Server への移行ベストプラクティス | AWS Summit 2019](https://pages.awscloud.com/rs/112-TZM-766/images/B3-01.pdf)
