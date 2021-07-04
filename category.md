@@ -22,6 +22,7 @@
 - `<Lv.200>` [サーバーレス開発：環境準備・CI/CD - Beyond Beginner](https://pages.awscloud.com/rs/112-TZM-766/images/3_serverless_development.pdf)
 - `<Lv.300>` [イチから理解するサーバーレスアプリケーション - 開発サーバーレス開発環境とテスト](https://pages.awscloud.com/rs/112-TZM-766/images/20200827_serverless_session2.pdf)
 - `<Lv.300>` [Serverlessをテストしよう / Serverless Testing - Speaker Deck](https://speakerdeck.com/_kensh/serverless-testing)
+- `<Lv.300>` [GitHubがすばやく安全にリリースを行うためにどのようにフィーチャーフラグを利用しているか](https://www.infoq.com/jp/news/2021/06/github-feature-flags/)
 
 ## IaC
 - `<Lv.200>` [Infrastructure as Codeに関する技術書籍を執筆しました - How elegant the tech world is...!](https://iselegant.hatenablog.com/entry/2021/06/19/231213)
