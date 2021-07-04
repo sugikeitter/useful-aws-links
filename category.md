@@ -33,6 +33,7 @@
 
 ## Multi Account
 - `<Lv.200>` [20210526 AWS Expert Online マルチアカウント管理の基本](https://www.slideshare.net/AmazonWebServicesJapan/20210526-aws-expert-online)
+- `<Lv.300>` [AWS Organizations における組織単位のベストプラクティス | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/best-practices-for-organizational-units-with-aws-organizations/)
 
 ## Network
 - `<Lv.200>` [AWS Summit Tokyo 2019 - 【初級】AWS を支えるグローバルネットワーク](https://pages.awscloud.com/rs/112-TZM-766/images/C1-02.pdf)
