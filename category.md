@@ -50,6 +50,7 @@
 - `<Lv.200>` [AWSの異常課金で気付いた不正アクセス--インシデントにどう対応したのか - ZDNet Japan](https://japan.zdnet.com/article/35133681/)
 - `<Lv.200>` 書籍: [AWSの薄い本Ⅱ アカウントセキュリティのベーシックセオリー - 佐々木拓郎のオンライン本屋 - BOOTH](https://takuros.booth.pm/items/1919060)
 - `<Lv.200>` [Amazon Route 53 および AWS Shield を使用した DDoS リスクの軽減 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/reduce-ddos-risks-using-amazon-route-53-and-aws-shield/)
+- `<Lv.300>` [GitHub Actionsに「強い」AWSの権限を渡したい ~作戦3 - AssumeRole with Google ID Token ~ - KAYAC engineers' blog](https://techblog.kayac.com/assume-role-with-google-id-token)
 
 ## Serverless
 - `<Lv.300>` [Serverless Well-Architected Framework - Speaker Deck](https://speakerdeck.com/_kensh/serverless-well-architected-framework)
