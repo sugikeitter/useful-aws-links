@@ -26,6 +26,9 @@
 - `<Lv.200>` [AWS Lambda のバージョン管理の仕組み | DevelopersIO](https://dev.classmethod.jp/articles/lambda-versioning/)
 - `<Lv.200>` [LambdaのDLQ(デッドレターキュー)とDestinations(非同期呼び出しの宛先指定)を比較してみた | DevelopersIO](https://dev.classmethod.jp/articles/lambda-dlq-vs-destinations/)
 
+## RDS
+- `<Lv.300>` [Aurora MySQL のバックアップは本当にそれでいいのだろうか？ | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/29925/)
+
 ## Route53
 - `<Lv.200>` [[レポート] ARC408: Route 53 SLA 100% の舞台裏 (Under the Hood of Amazon Route 53) #reinvent | DevelopersIO](https://dev.classmethod.jp/articles/report-reinvent-2018-1128-arc408/)
 - `<Lv.300>` [シャッフルシャーディングを使ったワークロードの分離](https://aws.amazon.com/jp/builders-library/workload-isolation-using-shuffle-sharding/)
