@@ -36,6 +36,7 @@
 ## Systems Manager
 - `<Lv.200>` [AWS Systems Manager Incident Managerで連絡先、エスカレーションプラン、対応プランを作成する | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/creating-contacts-escalation-plans-response-plans-aws-systems-manager-incident-manager/)
 - `<Lv.200>` [AWS Systems Manager Incident ManagerとAmazon CloudWatchの統合 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/aws-systems-manager-incident-manager-integration-amazon-cloudwatch/)
+- `<Lv.300>` [AWS IAMの安全な管理方法 · DeNA Engineers' Blog](https://engineer.dena.com/posts/2019.12/aws-iam-management/)
 
 ## S3
 - `<Lv.100>` [Amazon S3 Intelligent-Tiering がアーカイブアクセスティアを追加 — ストレージコストをさらに最適化](https://aws.amazon.com/jp/about-aws/whats-new/2020/11/amazon-s3-intelligent-tiering-adds-archive-access-tiers/)
