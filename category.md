@@ -52,8 +52,11 @@
 - `<Lv.200>` [AWSの異常課金で気付いた不正アクセス--インシデントにどう対応したのか - ZDNet Japan](https://japan.zdnet.com/article/35133681/)
 - `<Lv.200>` 書籍: [AWSの薄い本Ⅱ アカウントセキュリティのベーシックセオリー - 佐々木拓郎のオンライン本屋 - BOOTH](https://takuros.booth.pm/items/1919060)
 - `<Lv.200>` [Amazon Route 53 および AWS Shield を使用した DDoS リスクの軽減 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/reduce-ddos-risks-using-amazon-route-53-and-aws-shield/)
+- `<Lv.200>` [AWS上でどのようにゼロトラストアーキテクチャを考えていくか | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/how-to-think-about-zero-trust-architectures-on-aws/)
 - `<Lv.300>` [GitHub Actionsに「強い」AWSの権限を渡したい ~作戦3 - AssumeRole with Google ID Token ~ - KAYAC engineers' blog](https://techblog.kayac.com/assume-role-with-google-id-token)
 - `<Lv.300>` [AWS IAMの安全な管理方法 · DeNA Engineers' Blog](https://engineer.dena.com/posts/2019.12/aws-iam-management/)
+- `<Lv.300>` [ゼロトラストアーキテクチャ: AWS の視点 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/zero-trust-architectures-an-aws-perspective/)
+
 
 ## Serverless
 - `<Lv.300>` [Serverless Well-Architected Framework - Speaker Deck](https://speakerdeck.com/_kensh/serverless-well-architected-framework)
