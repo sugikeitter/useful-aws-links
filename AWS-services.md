@@ -25,6 +25,7 @@
 ## Lambda
 - `<Lv.200>` [AWS Lambda のバージョン管理の仕組み | DevelopersIO](https://dev.classmethod.jp/articles/lambda-versioning/)
 - `<Lv.200>` [LambdaのDLQ(デッドレターキュー)とDestinations(非同期呼び出しの宛先指定)を比較してみた | DevelopersIO](https://dev.classmethod.jp/articles/lambda-dlq-vs-destinations/)
+- `<Lv.300>` [AWS Summit Online JAPAN 2020 - Let’s dive deep into AWS Lambda error handling](https://pages.awscloud.com/rs/112-TZM-766/images/AWS-35_AWS_Summit_Online_2020_MAD01.pdf)
 
 ## RDS
 - `<Lv.300>` [Aurora MySQL のバックアップは本当にそれでいいのだろうか？ | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/29925/)
