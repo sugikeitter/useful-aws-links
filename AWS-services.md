@@ -28,6 +28,7 @@
 - `<Lv.300>` [AWS Summit Online JAPAN 2020 - Let’s dive deep into AWS Lambda error handling](https://pages.awscloud.com/rs/112-TZM-766/images/AWS-35_AWS_Summit_Online_2020_MAD01.pdf)
 
 ## RDS
+- `<Lv.200>` [Amazon RDS Online Seminar 「忘れちゃいけない！Amazon RDS/Amazon Aurora のアップグレードとその方法」資料・動画及び QA 公開 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/amazon-rds-online-seminar-20210617/)
 - `<Lv.300>` [Aurora MySQL のバックアップは本当にそれでいいのだろうか？ | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/29925/)
 
 ## Route53
