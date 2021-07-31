@@ -1,6 +1,9 @@
 ## Availability
 - `<Lv.200>` [なぜ「AWS で負荷分散は３AZ にまたがるのがベストプラクティス」と言われるのか 可用性の面から考えてみた](https://dev.classmethod.jp/articles/202008-three-az-load-balancing/)
 
+## Backup/Disaster Recovery
+- `<Lv.300>` [Disaster Recovery of Workloads on AWS: Recovery in the Cloud - Disaster Recovery of Workloads on AWS: Recovery in the Cloud](https://docs.aws.amazon.com/ja_jp/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-workloads-on-aws.html)
+
 ## Cache
 - `<Lv.200>` [Webアプリケーションのキャッシュ戦略とそのパターン / Pattern and Strategy of Web Application Caching - Speaker Deck](https://speakerdeck.com/moznion/pattern-and-strategy-of-web-application-caching)
 
