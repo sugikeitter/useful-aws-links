@@ -44,7 +44,7 @@
 
 ## Network
 - `<Lv.200>` [AWS Summit Tokyo 2019 - 【初級】AWS を支えるグローバルネットワーク](https://pages.awscloud.com/rs/112-TZM-766/images/C1-02.pdf)
-- `<Lv.300>` [Deep Dive on How to Establish Private Connectivity with AWS PrivateLink - AWS Online Tech Talks - YouTube](https://www.youtube.com/watch?v=weN2sCKFquA)
+- `<Lv.300>` 動画: [Deep Dive on How to Establish Private Connectivity with AWS PrivateLink - AWS Online Tech Talks - YouTube](https://www.youtube.com/watch?v=weN2sCKFquA)
 
 ## RDB
 - `<Lv.100>` [社内SQL研修のために作った資料を公開します | 株式会社AI Shift](https://www.ai-shift.co.jp/techblog/1980)
