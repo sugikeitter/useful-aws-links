@@ -60,3 +60,6 @@
 ## Serverless
 - `<Lv.300>` [Serverless Well-Architected Framework - Speaker Deck](https://speakerdeck.com/_kensh/serverless-well-architected-framework)
 - `<Lv.300>` [AWS Lambda Provisioned Concurrency Dive Deep & Practice - Speaker Deck](https://speakerdeck.com/_kensh/aws-lambda-provisioned-concurrency-dive-deep-and-practice)
+
+## Storage
+- `<Lv.200>` [Comparing your on-premises storage patterns with AWS Storage services | AWS Storage Blog](https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services/)
