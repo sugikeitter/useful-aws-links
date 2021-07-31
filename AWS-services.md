@@ -1,3 +1,6 @@
+## App Runner
+- `<Lv.200>` 動画: [AWS Expert Online for JAWS-UG #16 - YouTube](https://www.youtube.com/watch?v=--o2HwfnFiY&t=1379s)
+
 ## CloudFormation
 - `<Lv.200>` [AWS Organizations × CloudFormation StackSetsの組み合わせが素晴らしい - プログラマでありたい](https://blog.takuros.net/entry/2020/03/25/093247)
 
