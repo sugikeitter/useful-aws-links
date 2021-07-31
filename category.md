@@ -63,3 +63,4 @@
 
 ## Storage
 - `<Lv.200>` [Comparing your on-premises storage patterns with AWS Storage services | AWS Storage Blog](https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services/)
+- `<Lv.200>` [AWS Storage - EBS vs S3 vs EFS - YouTube](https://www.youtube.com/watch?v=6vNC_BCqFmI)
