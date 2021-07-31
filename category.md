@@ -18,6 +18,9 @@
 - `<Lv.200>` [スタートアップのためのコンテナ入門 – AWS Fargate 編 | AWS Startup ブログ](https://aws.amazon.com/jp/blogs/startup/techblog-container-fargate-1/)
 - `<Lv.200>` [スタートアップのためのコンテナ入門 – Kubernetes 編 | AWS Startup ブログ](https://aws.amazon.com/jp/blogs/startup/techblog-container-k8s-1/)
 
+## Data Lake/DWH
+- `<Lv.200>` 動画: [貯めるだけじゃもったいない！AWS 分析サービスを使ったデータレイクの有効活用(AWS-06) - YouTube](https://www.youtube.com/watch?v=95P_6_CJeys)
+
 ## DevOps
 - `<Lv.200>` [The Twelve-Factor App （日本語訳）](https://12factor.net/ja/)
 - `<Lv.200>` [「The Twelve-Factor App」を15項目に見直した「Beyond the Twelve-Factor App」を読んだ - kakakakakku blog](https://kakakakakku.hatenablog.com/entry/2020/03/09/084833)
