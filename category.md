@@ -54,6 +54,7 @@
 - `<Lv.300>` 動画: [Deep Dive on How to Establish Private Connectivity with AWS PrivateLink - AWS Online Tech Talks - YouTube](https://www.youtube.com/watch?v=weN2sCKFquA)
 - `<Lv.300>` [AWSネットワークの論理的な側面 ～ AWSのバックボーンネットワークに関するDeepな話（2） (1/4)：CodeZine（コードジン）](https://codezine.jp/article/detail/9790)
 - `<Lv.300>` [AWS_Summit_Online_2020_パケットの気持ちになって辿る Amazon VPC のルーティング](https://pages.awscloud.com/rs/112-TZM-766/images/AWS-08_AWS_Summit_Online_2020_NET01.pdf)
+- `<Lv.300>` [「知らなくても困らないけど、知ると楽しいVPCの裏側の世界」というテーマでビデオセッションでお話ししました #devio2020 | DevelopersIO](https://dev.classmethod.jp/articles/devio-connect-2020-chibayuki-vpc/)
 
 ## RDB
 - `<Lv.100>` [社内SQL研修のために作った資料を公開します | 株式会社AI Shift](https://www.ai-shift.co.jp/techblog/1980)
