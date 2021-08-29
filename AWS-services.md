@@ -15,6 +15,10 @@
 ## Config
 - `<Lv.200>` [やらないという選択肢はない　AWS Configを用いたマルチアカウント・マルチリージョンでのリソース把握とコンプライアンス維持 - ログミーTech](https://logmi.jp/tech/articles/323894)
 
+## Control Tower
+- `<Lv.200>` [AWS ソリューションプロバイダー向け AWS Control Tower のベストプラクティス | AWS JAPAN APN ブログ](https://aws.amazon.com/jp/blogs/psa/aws-control-tower-best-practices-for-aws-solution-providers/)
+- `<Lv.200>` [AWS Control Towerの嬉しいポイントと注意ポイント - NRIネットコム Design and Tech Blog](https://tech.nri-net.com/entry/controltower-kms)
+
 ## EC2
 - `<Lv.100>` [空きキャパシティとスポット価格 | 20190306 AWS Black Belt Online Seminar Amazon EC2 スポットインスタンス](https://www.slideshare.net/AmazonWebServicesJapan/20190306-aws-black-belt-online-seminar-amazon-ec2-149392937/20)
 
