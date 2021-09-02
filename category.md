@@ -10,6 +10,7 @@
 ## CI/CD
 - `<Lv.200>` [GitHub Actions の self-hosted runners を AWS ECS で動かして、CI / CD パイプラインを作る](https://techblog.exawizards.com/entry/2020/10/22/080000)
 - `<Lv.200>` [GitLab Flow + GitHub Actions ではじめる、デプロイフローの改善・自動化](https://techblog.exawizards.com/entry/2021/01/21/111031)
+- `<Lv.200>` [コンテナ Lambda の CI/CD パイプラインを SAM Pipeline で作ろう ! ~コンテナ利用者に捧げる AWS Lambda の新しい開発方式 ! ~ 第 5 回 - 変化を求めるデベロッパーを応援するウェブマガジン | AWS](https://aws.amazon.com/jp/builders-flash/202109/new-lambda-container-development-5/?awsf.filter-name=*all)
 - `<Lv.300>` [安全なハンズオフデプロイメントの自動化](https://aws.amazon.com/jp/builders-library/automating-safe-hands-off-deployments/)
 
 ## Container
