@@ -44,6 +44,7 @@
 - `<Lv.300>` [シャッフルシャーディングを使ったワークロードの分離](https://aws.amazon.com/jp/builders-library/workload-isolation-using-shuffle-sharding/)
 
 ## Systems Manager
+- `<Lv.200>` [AWS Systems Manager(SSM) の数多い機能群を攻略するための図を書いてみた 2021 | DevelopersIO](https://dev.classmethod.jp/articles/all-ssm-capabilities-2021/)
 - `<Lv.200>` [AWS Systems Manager Incident Managerで連絡先、エスカレーションプラン、対応プランを作成する | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/creating-contacts-escalation-plans-response-plans-aws-systems-manager-incident-manager/)
 - `<Lv.200>` [AWS Systems Manager Incident ManagerとAmazon CloudWatchの統合 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/aws-systems-manager-incident-manager-integration-amazon-cloudwatch/)
 - `<Lv.300>` [AWS IAMの安全な管理方法 · DeNA Engineers' Blog](https://engineer.dena.com/posts/2019.12/aws-iam-management/)
