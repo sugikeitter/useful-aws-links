@@ -57,5 +57,8 @@
 - `<Lv.200>` [SQS 標準キューのCLIを利用した動作デモ動画](https://www.youtube.com/watch?v=8cAk1_GSV0g&t=336s)
 - `<Lv.200>` [SQS FIFOキューのCLIを利用した動作デモ動画](https://www.youtube.com/watch?v=8cAk1_GSV0g&t=660s)
 
+## SSO
+- `<Lv.200>` [Azure AD と AWS SSOの連携 - fu3ak1's tech days](https://fu3ak1.hatenablog.com/entry/2020/12/20/000622)
+
 ## StepFunctions
 - `<Lv.300>` [分散システムにおけるSagaパターンのAWS Step Functions による実装 #AWSDevDay - Speaker Deck](https://speakerdeck.com/fatsushi/fen-san-sisutemuniokerusagapatanfalseaws-step-functions-niyorushi-zhuang-number-awsdevday)
