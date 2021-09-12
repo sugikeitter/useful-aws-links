@@ -21,6 +21,7 @@
 
 ## EC2
 - `<Lv.100>` [空きキャパシティとスポット価格 | 20190306 AWS Black Belt Online Seminar Amazon EC2 スポットインスタンス](https://www.slideshare.net/AmazonWebServicesJapan/20190306-aws-black-belt-online-seminar-amazon-ec2-149392937/20)
+- `<Lv.200>` [Amazon EC2 の進化の歴史から学ぶ EC2 入門 2019年版 | AWS Summit Tokyo 2019](https://pages.awscloud.com/rs/112-TZM-766/images/C2-06.pdf) (YouTube動画は[こちら](https://www.youtube.com/watch?v=SbKLo5atgk4))
 
 ## Organizations
 - `<Lv.200>` [AWS Organizationsを活用したマルチアカウントのセキュリティサービス使用方法 ～まとめ～ - fu3ak1's tech days](https://fu3ak1.hatenablog.com/entry/2021/01/28/002536)
