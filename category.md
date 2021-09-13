@@ -37,6 +37,9 @@
 - `<Lv.200>` [Terraform職人再入門2020 - Qiita](https://qiita.com/minamijoyo/items/3a7467f70d145ac03324)
 - `<Lv.300>` [Infrastructure as Codeのつらみの原因を探れ　恐怖症による負のサイクルを断ち切る“予測可能性” - ログミーTech](https://logmi.jp/tech/articles/324822)
 
+## Global Infrastructure
+- `<Lv.200>` [AWS を顧客が必要とする場所に延伸する：AWS が提案する新しいハイブリッドの形（Amazon Outposts、AWS Local Zones、AWS Wavelength） | AWS Summit Online 2021](https://d1.awsstatic.com/events/jp/2021/summit-online/AWS-16_AWS_Summit_Online_2021_CMP04.pdf) (Youtubeは[こちら](https://www.youtube.com/watch?v=K00ZUUSSNjM))
+
 ## Migration
 - `<Lv.200>` [Amazon RDS for Oracle / SQL Server への移行ベストプラクティス | AWS Summit 2019](https://pages.awscloud.com/rs/112-TZM-766/images/B3-01.pdf)
 - `<Lv.200>` [AWSのサービスを使ったオンプレミスからのデータベース移⾏ | AWS_Summit_Online_2020](https://pages.awscloud.com/rs/112-TZM-766/images/AWS-18_AWS_Summit_Online_2020_DAT01.pdf)
@@ -49,6 +52,9 @@
 - `<Lv.200>` [20210526 AWS Expert Online マルチアカウント管理の基本](https://www.slideshare.net/AmazonWebServicesJapan/20210526-aws-expert-online)
 - `<Lv.200>` 動画: [AWS Expert Online for JAWS-UG #15 - YouTube](https://www.youtube.com/watch?v=3QJ-RA5R0Jk)
 - `<Lv.300>` [AWS Organizations における組織単位のベストプラクティス | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/best-practices-for-organizational-units-with-aws-organizations/)
+
+## Multi Region
+- `<Lv.200>` [マルチリージョン、ちょっとその前に...-サービスの可用性について考える | AWS Summit Online 2021](https://d1.awsstatic.com/events/jp/2021/summit-online/AWS-53_AWS_Summit_Online_2021_Thinking-about-Availability.pdf) (Youtubeは[こちら](https://www.youtube.com/watch?v=8MyZ84WEjrc))
 
 ## Network
 - `<Lv.200>` [AWS Summit Tokyo 2019 - 【初級】AWS を支えるグローバルネットワーク](https://pages.awscloud.com/rs/112-TZM-766/images/C1-02.pdf)
