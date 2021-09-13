@@ -39,6 +39,7 @@
 ## RDS
 - `<Lv.200>` [Amazon RDS Online Seminar 「忘れちゃいけない！Amazon RDS/Amazon Aurora のアップグレードとその方法」資料・動画及び QA 公開 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/amazon-rds-online-seminar-20210617/)
 - `<Lv.300>` [Aurora MySQL のバックアップは本当にそれでいいのだろうか？ | CyberAgent Developers Blog](https://developers.cyberagent.co.jp/blog/archives/29925/)
+- `<Lv.300>` [Amazon RDS for Oracle で実現するエンタープライズ領域における高性能/高可用性構成 | AWS Summit Online 2021](https://d1.awsstatic.com/events/jp/2021/summit-online/AWS-49_AWS_Summit_Online_2021_RDSforOracle_Enterprise.pdf) (Youtubeは[こちら](https://www.youtube.com/watch?v=qXspvi86GHg))
 
 ## Route53
 - `<Lv.200>` 動画: [DNS Design Using Amazon Route 53 - AWS Online Tech Talks - YouTube](https://www.youtube.com/watch?v=2y_RBjDkRgY)
