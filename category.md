@@ -39,7 +39,7 @@
 
 ## Global Infrastructure
 - `<Lv.200>` [AWS を顧客が必要とする場所に延伸する：AWS が提案する新しいハイブリッドの形（Amazon Outposts、AWS Local Zones、AWS Wavelength） | AWS Summit Online 2021](https://d1.awsstatic.com/events/jp/2021/summit-online/AWS-16_AWS_Summit_Online_2021_CMP04.pdf) (Youtubeは[こちら](https://www.youtube.com/watch?v=K00ZUUSSNjM))
-- `<Lv.200>` [Amazon CloudFront と AWS Global Accelerator を使った AWS Global Network の活用方法 | AWS Summit Tokyo 2020](https://pages.awscloud.com/rs/112-TZM-766/images/AWS-29_AWS_Summit_Online_2020_NET02.pdf)
+- `<Lv.300>` [Amazon CloudFront と AWS Global Accelerator を使った AWS Global Network の活用方法 | AWS Summit Tokyo 2020](https://pages.awscloud.com/rs/112-TZM-766/images/AWS-29_AWS_Summit_Online_2020_NET02.pdf)
 
 ## Migration
 - `<Lv.200>` [Amazon RDS for Oracle / SQL Server への移行ベストプラクティス | AWS Summit 2019](https://pages.awscloud.com/rs/112-TZM-766/images/B3-01.pdf)
