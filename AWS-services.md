@@ -19,6 +19,9 @@
 - `<Lv.200>` [AWS ソリューションプロバイダー向け AWS Control Tower のベストプラクティス | AWS JAPAN APN ブログ](https://aws.amazon.com/jp/blogs/psa/aws-control-tower-best-practices-for-aws-solution-providers/)
 - `<Lv.200>` [AWS Control Towerの嬉しいポイントと注意ポイント - NRIネットコム Design and Tech Blog](https://tech.nri-net.com/entry/controltower-kms)
 
+## EBS
+- `<Lv.200>` [「Amazon EBS 完全に理解した」あなたに贈る Amazon EBS 再入門 | AWS Summit Online 2020: AWS-20](https://pages.awscloud.com/rs/112-TZM-766/images/AWS-20_AWS_Summit_Online_2020_STG02.pdf)
+
 ## EC2
 - `<Lv.100>` [空きキャパシティとスポット価格 | 20190306 AWS Black Belt Online Seminar Amazon EC2 スポットインスタンス](https://www.slideshare.net/AmazonWebServicesJapan/20190306-aws-black-belt-online-seminar-amazon-ec2-149392937/20)
 - `<Lv.200>` [Amazon EC2 の進化の歴史から学ぶ EC2 入門 2019年版 | AWS Summit Tokyo 2019](https://pages.awscloud.com/rs/112-TZM-766/images/C2-06.pdf) (YouTube動画は[こちら](https://www.youtube.com/watch?v=SbKLo5atgk4))
