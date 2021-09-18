@@ -75,6 +75,7 @@
 - `<Lv.200>` [ゼロトラストアーキテクチャ: AWS の視点 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/zero-trust-architectures-an-aws-perspective/)
 - `<Lv.300>` [GitHub Actionsに「強い」AWSの権限を渡したい ~作戦3 - AssumeRole with Google ID Token ~ - KAYAC engineers' blog](https://techblog.kayac.com/assume-role-with-google-id-token)
 - `<Lv.300>` [AWS IAMの安全な管理方法 · DeNA Engineers' Blog](https://engineer.dena.com/posts/2019.12/aws-iam-management/)
+- `<Lv.300>` [2020年版 チーム内勉強会資料その1 : JSON Web Token - r-weblife](https://ritou.hatenablog.com/entry/2020/06/08/050000)
 
 ## Serverless
 - `<Lv.300>` [Serverless Well-Architected Framework - Speaker Deck](https://speakerdeck.com/_kensh/serverless-well-architected-framework)
