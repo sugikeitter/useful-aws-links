@@ -37,9 +37,10 @@
 - `<Lv.200>` [Terraform職人再入門2020 - Qiita](https://qiita.com/minamijoyo/items/3a7467f70d145ac03324)
 - `<Lv.300>` [Infrastructure as Codeのつらみの原因を探れ　恐怖症による負のサイクルを断ち切る“予測可能性” - ログミーTech](https://logmi.jp/tech/articles/324822)
 
-## Global Infrastructure
+## Global Infrastructure / Edge Network
 - `<Lv.100>` [AWS グローバルインフラストラクチャ | AWS](https://aws.amazon.com/jp/about-aws/global-infrastructure/)
 - `<Lv.200>` [AWS を顧客が必要とする場所に延伸する：AWS が提案する新しいハイブリッドの形（Amazon Outposts、AWS Local Zones、AWS Wavelength） | AWS Summit Online 2021](https://d1.awsstatic.com/events/jp/2021/summit-online/AWS-16_AWS_Summit_Online_2021_CMP04.pdf) (Youtubeは[こちら](https://www.youtube.com/watch?v=K00ZUUSSNjM))
+- `<Lv.200>` [ユーザーエクスペリエンスとセキュリティを最適化する AWS エッジネットワークサービス | AWS Summit Online 2021](https://d1.awsstatic.com/events/jp/2021/summit-online/AWS-33_AWS_Summit_Online_2021_NET02.pdf) (Youtubeは[こちら](https://youtu.be/qFxrmCXm8Vg))
 - `<Lv.300>` [Amazon CloudFront と AWS Global Accelerator を使った AWS Global Network の活用方法 | AWS Summit Tokyo 2020](https://pages.awscloud.com/rs/112-TZM-766/images/AWS-29_AWS_Summit_Online_2020_NET02.pdf)
 
 ## Migration
